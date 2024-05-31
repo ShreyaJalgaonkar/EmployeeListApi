@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "name": "Prateek",
+    "employee_code": "2502",
+    "location": "9B building"
+  },
+  {
+    "id": 3,
+    "name": "Swati",
+    "employee_code": "0504",
+    "location": "22 building"
+  },
+  {
+    "id": 4,
+    "name": "Prakash",
+    "employee_code": "2506",
+    "location": "23 building"
+  },
+  {
+    "id": 10,
+    "name": "Shreya",
+    "employee_code": "0908",
+    "location": "9A building"
+  }
+]
